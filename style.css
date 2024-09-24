@@ -1,7 +1,22 @@
-/* Add Question 1 CSS below: */
-.color-word {
-    
-}
+  /* Add Question 1 CSS below: */
+  .color-word {
+      color: #f0c800;
+  }
+  .a{
+    color: red;
+  }
+  .b{
+    color: orange;
+  }
+  .c{
+    color: yellow;
+  }
+  .d{
+    color: green;
+  }
+  .e{
+    color: #00ffff;
+  }
   
   /* Add Question 2 CSS below: */
   
@@ -9,6 +24,8 @@
   .highlight-me {
     color: black;
     font-size: 16px;
+    background-color: yellow;
+
   }
   
   /* Question 5 */
