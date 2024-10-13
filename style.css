@@ -34,6 +34,7 @@
     height: 70px;
     background-color: black;
     margin: 10px;
+    display: inline-block;
   }
   
   /* Question 6 */
@@ -42,6 +43,7 @@
     color: grey;
     font-size: 30px;
     width: 100px;
+    display: none;
   }
   
   /* Question 7 */
@@ -53,6 +55,7 @@
   /* Question 8 */
   .separate-me {
     background-color: green;
+    margin: 10px;
     width: 200px;
     height: 20px;
   }
@@ -61,6 +64,10 @@
   .user-friendly {
     background-color: black;
     color: white;
+    display: inline-block;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
     text-decoration: none;
   }
   
